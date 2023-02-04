@@ -19,7 +19,7 @@ function increasePersonAge (teste) {
         teste.sex = 'female'
     }
 }
-
+console.log('git')
 increasePersonAge(pessoa);
 increasePersonAge(pessoa2);
 console.log(pessoa, pessoa2)
